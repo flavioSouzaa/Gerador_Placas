@@ -2,8 +2,6 @@ package Mercosul;
 
 import java.util.Random;
 
-import javax.rmi.CORBA.Util;
-
 import Interface.Gera;
 
 public class PadraoAntigo implements Gera {
